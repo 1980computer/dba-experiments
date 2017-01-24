@@ -1,0 +1,35 @@
+html, body
+	width 100%
+	height 100%
+	margin 0
+	padding 0
+	overflow hidden
+	background url('http://lab.arnaudrocca.fr/water-shader/assets/images/preview.png') no-repeat center center fixed
+	background-size cover
+	font-size 10px
+
+canvas
+	position absolute
+	display block
+	cursor move
+	
+.infos
+	position absolute
+	margin 0
+	bottom 10px
+	right 10px
+	color #888
+	font-family sans-serif
+	font-weight 400
+	font-size 1rem
+	line-height .5rem
+	
+	a
+		text-decoration none
+		color #03C
+		opacity .7
+		
+		transition .3s
+		
+		&:hover
+			opacity 1
