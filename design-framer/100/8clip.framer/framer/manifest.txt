@@ -1,0 +1,69 @@
+app.coffee
+framer/backups/backup-2016-06-11 15.33.40.coffee
+framer/backups/backup-2016-06-11 15.34.40.coffee
+framer/backups/backup-2016-06-11 15.35.40.coffee
+framer/backups/backup-2016-06-11 15.36.40.coffee
+framer/backups/backup-2016-06-11 15.37.40.coffee
+framer/backups/backup-2016-06-11 15.38.40.coffee
+framer/backups/backup-2016-06-11 15.39.40.coffee
+framer/backups/backup-2016-06-11 15.40.40.coffee
+framer/backups/backup-2016-06-11 15.41.40.coffee
+framer/backups/backup-2016-06-11 16.38.39.coffee
+framer/backups/backup-2016-06-11 16.41.39.coffee
+framer/backups/backup-2016-06-11 16.43.39.coffee
+framer/backups/backup-2016-06-11 16.44.39.coffee
+framer/backups/backup-2016-06-11 16.45.39.coffee
+framer/backups/backup-2016-06-11 17.11.38.coffee
+framer/backups/backup-2016-06-11 18.20.38.coffee
+framer/backups/backup-2016-06-11 18.21.38.coffee
+framer/backups/backup-2016-06-11 18.22.38.coffee
+framer/backups/backup-2016-06-11 18.23.38.coffee
+framer/backups/backup-2016-06-11 18.24.38.coffee
+framer/backups/backup-2016-06-11 18.25.38.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/background.png
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/images/icon-arrow.png
+framer/images/icon-arrow@2x.png
+framer/images/icon-close.png
+framer/images/icon-close@2x.png
+framer/images/icon-framer.png
+framer/images/icon-framer@2x.png
+framer/images/icon-share.png
+framer/images/icon-share@2x.png
+framer/manifest.txt
+framer/mirror.css
+framer/preview.png
+framer/style.css
+framer/version
+images/albumCover.jpg
+images/artworks-000166488956-ny228o-t500x500.jpg
+images/icons.png
+images/songList.png
+images/title.png
+images/track.png
+imported/day5@1x/images/Layer-b1-qjmynjzg.png
+imported/day5@1x/images/Layer-b2-mzcyn0vb.png
+imported/day5@1x/images/Layer-l1-mki1mzdf.png
+imported/day5@1x/images/Layer-l2-rtheoufc.png
+imported/day5@1x/images/Layer-n1-njq1nkm3.png
+imported/day5@1x/images/Layer-n2-nznemkjd.png
+imported/day5@1x/images/Layer-play-qkfdodrd.png
+imported/day5@1x/layers.json
+imported/day5@1x/layers.json.js
+index.html
+modules/myModule.coffee
