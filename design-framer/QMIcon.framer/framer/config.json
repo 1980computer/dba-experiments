@@ -1,0 +1,33 @@
+{
+  "propertyPanelToggleStates" : {
+    "Filters" : false
+  },
+  "deviceOrientation" : 0,
+  "sharedPrototype" : 1,
+  "contentScale" : 1,
+  "deviceType" : "fullscreen",
+  "selectedHand" : "",
+  "updateDelay" : 0.3,
+  "deviceScale" : 1,
+  "foldedCodeRanges" : [
+    "{0, 225}",
+    "{226, 45}",
+    "{271, 573}",
+    "{844, 428}",
+    "{1273, 212}",
+    "{1485, 691}",
+    "{2176, 1914}",
+    "{4090, 810}",
+    "{4901, 10330}",
+    "{15231, 10046}",
+    "{25277, 9217}",
+    "{34494, 5383}",
+    "{39877, 5518}",
+    "{45395, 4471}",
+    "{49866, 9220}",
+    "{59086, 5651}",
+    "{64738, 221}",
+    "{64959, 823}"
+  ],
+  "orientation" : 0
+}
