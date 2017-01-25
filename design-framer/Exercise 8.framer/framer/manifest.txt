@@ -1,0 +1,111 @@
+app.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/metadata.json
+framer/preview.png
+framer/social-1200x630.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+imported/Exercise 8@1x/images/Layer-ActionButton-qkiwnzy2.png
+imported/Exercise 8@1x/images/Layer-ArchivedButton-njcwrdu4.png
+imported/Exercise 8@1x/images/Layer-ArchivedLabel-rtlcoduz.png
+imported/Exercise 8@1x/images/Layer-AttachmentsButton-otk4rjqx.png
+imported/Exercise 8@1x/images/Layer-AttachmentsLabel-odiynjuw.png
+imported/Exercise 8@1x/images/Layer-Background-nkiymuux.png
+imported/Exercise 8@1x/images/Layer-ComposeButton-ndk2oevg.png
+imported/Exercise 8@1x/images/Layer-ComposeLabel-qjy3nzne.png
+imported/Exercise 8@1x/images/Layer-Content-n0q2rkje.png
+imported/Exercise 8@1x/images/Layer-Content-qtczmzi3.png
+imported/Exercise 8@1x/images/Layer-Email_row-mzuzm0ew.png
+imported/Exercise 8@1x/images/Layer-Email_row-nefgmzu4.png
+imported/Exercise 8@1x/images/Layer-Email_row-nenfmeu3.png
+imported/Exercise 8@1x/images/Layer-Email_row-njngqtne.png
+imported/Exercise 8@1x/images/Layer-Email_row-ntbbqkex.png
+imported/Exercise 8@1x/images/Layer-Email_row-nzk2nta4.png
+imported/Exercise 8@1x/images/Layer-Email_row-otjbrduy.png
+imported/Exercise 8@1x/images/Layer-Email_row-q0ngnze5.png
+imported/Exercise 8@1x/images/Layer-Email_row-qjddmje1.png
+imported/Exercise 8@1x/images/Layer-Email_row-qzjcnthe.png
+imported/Exercise 8@1x/images/Layer-Email_row-rji1nje3.png
+imported/Exercise 8@1x/images/Layer-Email_row-rtkzotm0.png
+imported/Exercise 8@1x/images/Layer-FlaggedButton-rtc0otky.png
+imported/Exercise 8@1x/images/Layer-FlaggedLabel-rde4rjq2.png
+imported/Exercise 8@1x/images/Layer-Footer-qungoui3.png
+imported/Exercise 8@1x/images/Layer-Footer-rezcndgw.png
+imported/Exercise 8@1x/images/Layer-Glyph_Attachment-njffqzqz.png
+imported/Exercise 8@1x/images/Layer-Glyph_Attachment-njldoee0.png
+imported/Exercise 8@1x/images/Layer-Glyph_Attachment-odzcrkfc.png
+imported/Exercise 8@1x/images/Layer-Glyph_Attachment-qta5ndaz.png
+imported/Exercise 8@1x/images/Layer-Glyph_Back_Arrow-mjqxm0iz.png
+imported/Exercise 8@1x/images/Layer-Glyph_Back_Arrow-rdq2mdve.png
+imported/Exercise 8@1x/images/Layer-Glyph_Chevron-meqymjyy.png
+imported/Exercise 8@1x/images/Layer-Glyph_Chevron-mjawoevc.png
+imported/Exercise 8@1x/images/Layer-Glyph_Chevron-mjq0mjbc.png
+imported/Exercise 8@1x/images/Layer-Glyph_Chevron-n0e5njex.png
+imported/Exercise 8@1x/images/Layer-Glyph_Chevron-n0izmurb.png
+imported/Exercise 8@1x/images/Layer-Glyph_Chevron-nkrertk2.png
+imported/Exercise 8@1x/images/Layer-Glyph_Chevron-ntjgmzu2.png
+imported/Exercise 8@1x/images/Layer-Glyph_Chevron-nuu4mte1.png
+imported/Exercise 8@1x/images/Layer-Glyph_Chevron-odjbmky1.png
+imported/Exercise 8@1x/images/Layer-Glyph_Chevron-ota1otm1.png
+imported/Exercise 8@1x/images/Layer-Glyph_Chevron-otcyntnd.png
+imported/Exercise 8@1x/images/Layer-Glyph_Chevron-otneoeve.png
+imported/Exercise 8@1x/images/Layer-Glyph_Mail_Compose-ota2ntje.png
+imported/Exercise 8@1x/images/Layer-Glyph_Mail_Compose-otu3nend.png
+imported/Exercise 8@1x/images/Layer-Glyph_Mail_Compose-ouuzoey5.png
+imported/Exercise 8@1x/images/Layer-Glyph_Mail_Unread-mdk3mejd.png
+imported/Exercise 8@1x/images/Layer-Glyph_Mail_Unread-q0q0ntq1.png
+imported/Exercise 8@1x/images/Layer-Glyph_Search-qum5mzff.png
+imported/Exercise 8@1x/images/Layer-Glyph_Search-rde2m0uw.png
+imported/Exercise 8@1x/images/Layer-Glyphs_Mail_Attachment-ouewreew.png
+imported/Exercise 8@1x/images/Layer-Glyphs_Mail_Flag-nzfbqki3.png
+imported/Exercise 8@1x/images/Layer-Glyphs_Mail_Junk-oduwodmy.png
+imported/Exercise 8@1x/images/Layer-Glyphs_Mail_Sent-ote4mkq1.png
+imported/Exercise 8@1x/images/Layer-Glyphs_Navigation_Bar_Add-qtmzmzfe.png
+imported/Exercise 8@1x/images/Layer-Glyphs_Navigation_Bar_Add-rjrbmjbd.png
+imported/Exercise 8@1x/images/Layer-Navigation_Bar_Title_Back_2_Icons-m0zfrumw.png
+imported/Exercise 8@1x/images/Layer-Navigation_Bar_Title_Back_2_Icons-njddnuvd.png
+imported/Exercise 8@1x/images/Layer-Search_Grey-mzlgnjnd.png
+imported/Exercise 8@1x/images/Layer-Search_Grey-qtcznzrb.png
+imported/Exercise 8@1x/images/Layer-Search_Text-mjlfnjmy.png
+imported/Exercise 8@1x/images/Layer-Search_Text-mtbcrenc.png
+imported/Exercise 8@1x/images/Layer-SentButton-ndy2ouzf.png
+imported/Exercise 8@1x/images/Layer-SentLabel-oeq4nzgz.png
+imported/Exercise 8@1x/images/Layer-Status_Bar_Dark-mzy5qtk0.png
+imported/Exercise 8@1x/images/Layer-Status_Bar_Dark-rtncquq2.png
+imported/Exercise 8@1x/layers.json
+imported/Exercise 8@1x/layers.json.js
+imported/Exercise 8@2x/images/Layer-ActionButton-qkiwnzy2.png
+imported/Exercise 8@2x/images/Layer-ActionViewBackground-nkiymuux.png
+imported/Exercise 8@2x/images/Layer-ArchivedButton-njcwrdu4.png
+imported/Exercise 8@2x/images/Layer-ArchivedLabel-rtlcoduz.png
+imported/Exercise 8@2x/images/Layer-AttachmentsButton-otk4rjqx.png
+imported/Exercise 8@2x/images/Layer-AttachmentsLabel-odiynjuw.png
+imported/Exercise 8@2x/images/Layer-CloseButton-mkq3nkm2.png
+imported/Exercise 8@2x/images/Layer-ComposeButton-ndk2oevg.png
+imported/Exercise 8@2x/images/Layer-ComposeLabel-qjy3nzne.png
+imported/Exercise 8@2x/images/Layer-DefaultViewBackground-mjk5qzvd.png
+imported/Exercise 8@2x/images/Layer-FlaggedButton-rtc0otky.png
+imported/Exercise 8@2x/images/Layer-FlaggedLabel-rde4rjq2.png
+imported/Exercise 8@2x/images/Layer-SentButton-ndy2ouzf.png
+imported/Exercise 8@2x/images/Layer-SentLabel-oeq4nzgz.png
+imported/Exercise 8@2x/layers.json
+imported/Exercise 8@2x/layers.json.js
+index.html
+modules/myModule.coffee

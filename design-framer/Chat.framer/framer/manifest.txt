@@ -1,0 +1,60 @@
+app.coffee
+Chat.sketch
+framer/backups/backup-2016-11-16 22.32.10.coffee
+framer/backups/backup-2016-11-16 22.33.10.coffee
+framer/backups/backup-2016-11-16 22.35.10.coffee
+framer/backups/backup-2016-11-16 22.36.10.coffee
+framer/backups/backup-2016-11-16 22.44.10.coffee
+framer/backups/backup-2016-11-16 22.45.10.coffee
+framer/backups/backup-2016-11-16 22.46.10.coffee
+framer/backups/backup-2016-11-16 22.47.10.coffee
+framer/backups/backup-2016-11-16 22.48.10.coffee
+framer/backups/backup-2016-11-16 22.49.10.coffee
+framer/backups/backup-2016-11-16 23.10.10.coffee
+framer/backups/backup-2016-11-16 23.11.10.coffee
+framer/backups/backup-2016-11-16 23.13.10.coffee
+framer/backups/backup-2016-11-16 23.14.10.coffee
+framer/backups/backup-2016-11-16 23.15.10.coffee
+framer/backups/backup-2016-11-16 23.17.06.coffee
+framer/backups/backup-2016-11-16 23.51.06.coffee
+framer/backups/backup-2016-11-16 23.52.06.coffee
+framer/backups/backup-2016-11-17 13.24.55.coffee
+framer/backups/backup-2016-11-17 13.26.55.coffee
+framer/backups/backup-2016-11-17 13.31.55.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/metadata.json
+framer/preview.png
+framer/social-1200x630.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+imported/Chat@2x/images/Layer-attachButton-nthbrdvf.png
+imported/Chat@2x/images/Layer-bottomBarBackground-rdkyrkfg.png
+imported/Chat@2x/images/Layer-contentArea-qtu2mda2.png
+imported/Chat@2x/images/Layer-inputBox-nti4nte4.png
+imported/Chat@2x/images/Layer-inputUI-ntm1muu2.png
+imported/Chat@2x/images/Layer-keyboard-ney3ruvf.png
+imported/Chat@2x/images/Layer-navigationBar-rjy1mky2.png
+imported/Chat@2x/images/Layer-sendBtn-nke3rdky.png
+imported/Chat@2x/images/Layer-sendBtnActive-rtq5renf.png
+imported/Chat@2x/images/Layer-statusBar-quqxrue0.png
+imported/Chat@2x/layers.json
+imported/Chat@2x/layers.json.js
+index.html
+modules/myModule.coffee
