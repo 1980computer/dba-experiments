@@ -1,0 +1,13 @@
+
+.vhs-fade {
+  opacity: 0;
+  animation-name: vhs-fade;
+  animation-duration: var(--fade-duration);
+  animation-fill-mode: forwards;
+}
+
+@keyframes vhs-fade {
+    0% { opacity: 0 }
+  100% { opacity: 1 }
+}
+

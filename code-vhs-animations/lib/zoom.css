@@ -1,0 +1,13 @@
+
+.vhs-zoom {
+  transform: scale(0);
+  animation-name: vhs-zoom;
+  animation-duration: var(--zoom-duration);
+  animation-fill-mode: forwards;
+}
+
+@keyframes vhs-zoom {
+    0% { transform: scale(0) }
+  100% { transform: scale(1) }
+}
+
