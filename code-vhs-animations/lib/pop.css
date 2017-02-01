@@ -1,0 +1,14 @@
+
+.vhs-pop {
+  transform: scale(0);
+  animation-name: vhs-pop;
+  animation-duration: var(--pop-duration);
+  animation-fill-mode: forwards;
+}
+
+@keyframes vhs-pop {
+    0% { transform: scale(0) }
+   75% { transform: scale(1.25) }
+  100% { transform: scale(1) }
+}
+
