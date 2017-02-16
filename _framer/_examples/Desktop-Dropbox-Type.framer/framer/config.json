@@ -1,0 +1,26 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "delay" : 0.3,
+  "contentScale" : 1,
+  "fullScreen" : false,
+  "sharedPrototype" : 1,
+  "propertyPanelToggleStates" : {
+
+  },
+  "deviceType" : "apple-macbook-air",
+  "projectId" : "F6CD6E34-DD81-417D-8714-60D4C5BCB530",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "device" : "iPhone 5S Space Gray",
+  "foldedCodeRanges" : [
+    "{0, 263}",
+    "{635, 219}",
+    "{855, 475}",
+    "{1331, 326}",
+    "{1658, 387}",
+    "{2046, 3409}",
+    "{5456, 4647}"
+  ],
+  "deviceScale" : "fit"
+}

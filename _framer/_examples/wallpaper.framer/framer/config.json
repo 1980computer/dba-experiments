@@ -1,0 +1,15 @@
+{
+  "sharedPrototype" : true,
+  "deviceOrientation" : 0,
+  "contentScale" : 1,
+  "deviceType" : "apple-iphone-6s-plus-rose-gold",
+  "selectedHand" : "",
+  "updateDelay" : 0.3,
+  "foldedCodeRanges" : [
+
+  ],
+  "deviceScale" : "fit",
+  "orientation" : 0,
+  "fullScreen" : false,
+  "projectId" : "517DBFFD-8679-4BF5-A43E-30B2122E2EAA"
+}
