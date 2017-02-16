@@ -1,0 +1,45 @@
+app.coffee
+framer/backups/backup-2016-12-20 14.14.09.coffee
+framer/backups/backup-2016-12-20 14.16.09.coffee
+framer/backups/backup-2016-12-20 14.18.09.coffee
+framer/backups/backup-2016-12-20 14.46.09.coffee
+framer/backups/backup-2016-12-20 14.47.09.coffee
+framer/backups/backup-2016-12-20 14.48.09.coffee
+framer/backups/backup-2016-12-20 14.49.09.coffee
+framer/backups/backup-2016-12-20 17.12.18.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/metadata.json
+framer/preview.png
+framer/social-1200x630.png
+framer/social-800x600.png
+framer/social-80x80.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+images/bottomBar.png
+images/HomeScreenIcons.png
+images/Rock_1.png
+images/Rock_2.png
+images/Rock_3.png
+images/Rock_bg.jpg
+images/statusBar.png
+images/statusBarLocked.png
+images/time.png
+index.html
+modules/myModule.coffee
