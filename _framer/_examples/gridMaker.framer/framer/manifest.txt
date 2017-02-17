@@ -1,0 +1,48 @@
+app.coffee
+framer/backups/backup-2017-02-10 21.52.18.coffee
+framer/backups/backup-2017-02-10 21.53.20.coffee
+framer/backups/backup-2017-02-10 21.54.18.coffee
+framer/backups/backup-2017-02-10 21.55.18.coffee
+framer/backups/backup-2017-02-10 21.56.18.coffee
+framer/backups/backup-2017-02-10 21.57.18.coffee
+framer/backups/backup-2017-02-10 21.58.18.coffee
+framer/backups/backup-2017-02-10 21.59.18.coffee
+framer/backups/backup-2017-02-10 22.00.18.coffee
+framer/backups/backup-2017-02-10 22.01.18.coffee
+framer/backups/backup-2017-02-10 22.02.18.coffee
+framer/backups/backup-2017-02-10 22.03.18.coffee
+framer/backups/backup-2017-02-10 22.04.18.coffee
+framer/backups/backup-2017-02-10 22.05.18.coffee
+framer/backups/backup-2017-02-10 22.06.18.coffee
+framer/backups/backup-2017-02-10 22.07.18.coffee
+framer/backups/backup-2017-02-10 22.08.18.coffee
+framer/backups/backup-2017-02-10 22.09.18.coffee
+framer/backups/backup-2017-02-10 22.10.18.coffee
+framer/backups/backup-2017-02-10 22.11.18.coffee
+framer/backups/backup-2017-02-10 22.12.18.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/preview.png
+framer/social-1200x630.png
+framer/social-800x600.png
+framer/social-80x80.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+index.html
+modules/myModule.coffee
