@@ -1,0 +1,64 @@
+app.coffee
+app.js
+bower_components/synaptic/bower.json
+bower_components/synaptic/dist/synaptic.js
+bower_components/synaptic/dist/synaptic.min.js
+bower_components/synaptic/karma.conf.js
+bower_components/synaptic/LICENSE
+bower_components/synaptic/package.json
+bower_components/synaptic/prebuild.js
+bower_components/synaptic/README.md
+bower_components/synaptic/src/architect.js
+bower_components/synaptic/src/layer.js
+bower_components/synaptic/src/network.js
+bower_components/synaptic/src/neuron.js
+bower_components/synaptic/src/synaptic.js
+bower_components/synaptic/src/trainer.js
+bower_components/synaptic/webpack.config.js
+fonts/arcadeclassic.ttf
+framer/backups/backup-2017-02-09 22.45.05.coffee
+framer/backups/backup-2017-02-09 22.46.05.coffee
+framer/backups/backup-2017-02-09 22.47.05.coffee
+framer/backups/backup-2017-02-09 22.48.05.coffee
+framer/backups/backup-2017-02-09 22.49.05.coffee
+framer/backups/backup-2017-02-09 22.50.05.coffee
+framer/backups/backup-2017-02-09 22.51.05.coffee
+framer/backups/backup-2017-02-09 22.52.05.coffee
+framer/backups/backup-2017-02-09 22.53.05.coffee
+framer/backups/backup-2017-02-09 22.54.05.coffee
+framer/backups/backup-2017-02-09 22.58.05.coffee
+framer/backups/backup-2017-02-09 22.59.06.coffee
+framer/backups/backup-2017-02-09 23.00.05.coffee
+framer/backups/backup-2017-02-09 23.01.05.coffee
+framer/backups/backup-2017-02-09 23.02.05.coffee
+framer/backups/backup-2017-02-09 23.07.15.coffee
+framer/backups/backup-2017-02-09 23.14.10.coffee
+framer/backups/backup-2017-02-09 23.15.10.coffee
+framer/backups/backup-2017-02-09 23.16.40.coffee
+framer/backups/backup-2017-02-10 08.09.40.coffee
+framer/backups/backup-2017-02-10 08.12.19.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/preview.png
+framer/social-1200x630.png
+framer/social-800x600.png
+framer/social-80x80.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+index.html

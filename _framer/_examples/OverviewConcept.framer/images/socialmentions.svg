@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 173.6 102" style="enable-background:new 0 0 173.6 102;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:url(#SVGID_1_);stroke-width:0.75;}
+	.st1{fill:none;stroke:url(#SVGID_2_);stroke-width:0.75;}
+	.st2{fill:none;stroke:url(#SVGID_3_);stroke-width:0.75;}
+	.st3{fill:none;stroke:url(#SVGID_4_);stroke-width:0.75;}
+	.st4{fill:none;}
+	.st5{fill:#6B6B6B;}
+	.st6{font-family:'AvenirNext-Medium';}
+	.st7{font-size:15px;}
+	.st8{font-family:'AvenirNext-Regular';}
+	.st9{font-size:46px;}
+</style>
+<title>socialmentions</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="140.26" y1="81.995" x2="144.85" y2="81.995" gradientTransform="matrix(1 0 0 -1 0 104)">
+	<stop  offset="0" style="stop-color:#2E368F"/>
+	<stop  offset="1" style="stop-color:#1C76BC"/>
+</linearGradient>
+<line class="st0" x1="140.6" y1="42.1" x2="144.5" y2="1.9"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="121.9967" y1="81.995" x2="126.5767" y2="81.995" gradientTransform="matrix(1 0 0 -1 0 104)">
+	<stop  offset="0" style="stop-color:#2E368F"/>
+	<stop  offset="1" style="stop-color:#1C76BC"/>
+</linearGradient>
+<line class="st1" x1="122.4" y1="42.1" x2="126.2" y2="1.9"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="113.42" y1="89.23" x2="153.73" y2="89.23" gradientTransform="matrix(1 0 0 -1 0 104)">
+	<stop  offset="0" style="stop-color:#2E368F"/>
+	<stop  offset="1" style="stop-color:#1C76BC"/>
+</linearGradient>
+<line class="st2" x1="113.4" y1="14.8" x2="153.7" y2="14.8"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="113.42" y1="75.45" x2="153.73" y2="75.45" gradientTransform="matrix(1 0 0 -1 0 104)">
+	<stop  offset="0" style="stop-color:#2E368F"/>
+	<stop  offset="1" style="stop-color:#1C76BC"/>
+</linearGradient>
+<line class="st3" x1="113.4" y1="28.5" x2="153.7" y2="28.5"/>
+<rect x="-87.3" y="70.8" class="st4" width="348.2" height="36"/>
+<text transform="matrix(1 0 0 1 17.9885 82.1282)" class="st5 st6 st7">SOCIAL MENTIONS</text>
+<rect x="3.8" y="6.7" class="st4" width="104.2" height="36"/>
+<text transform="matrix(1 0 0 1 8.7699 41.4581)" class="st5 st8 st9">6.7K</text>
+</svg>

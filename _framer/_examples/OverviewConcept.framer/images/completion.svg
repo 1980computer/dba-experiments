@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 219.4 184.6" style="enable-background:new 0 0 219.4 184.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.35;fill:url(#SVGID_1_);enable-background:new    ;}
+	.st1{opacity:0.35;fill:url(#SVGID_2_);enable-background:new    ;}
+	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st3{font-family:'AvenirNext-UltraLight';}
+	.st4{font-size:57.1833px;}
+	.st5{letter-spacing:-3;}
+	.st6{fill:none;}
+	.st7{fill:#6B6B6B;}
+	.st8{font-family:'AvenirNext-Medium';}
+	.st9{font-size:17px;}
+</style>
+<title>completion</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="36.4" y1="-469.3" x2="183" y2="-469.3" gradientTransform="matrix(1 0 0 -1 0 -396)">
+	<stop  offset="0" style="stop-color:#2E368F"/>
+	<stop  offset="1" style="stop-color:#1C76BC"/>
+</linearGradient>
+<path class="st0" d="M109.7,0L109.7,0C150.2,0,183,32.8,183,73.3l0,0c0,40.5-32.8,73.3-73.3,73.3l0,0c-40.5,0-73.3-32.8-73.3-73.3
+	l0,0C36.4,32.8,69.2,0,109.7,0z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-2358.47" y1="1276.7" x2="-2234.0701" y2="1276.7" gradientTransform="matrix(-1 0 0 1 -2186.5701 -1203.4)">
+	<stop  offset="0" style="stop-color:#2E368F"/>
+	<stop  offset="1" style="stop-color:#1C76BC"/>
+</linearGradient>
+<path class="st1" d="M109.7,135.5L109.7,135.5c-34.4,0-62.2-27.9-62.2-62.2l0,0c0-34.4,27.9-62.2,62.2-62.2l0,0
+	c34.4,0,62.2,27.9,62.2,62.2l0,0C171.9,107.7,144.1,135.5,109.7,135.5z"/>
+<g>
+	<text transform="matrix(1 0 0 1 60.769 94.295)" class="st2 st3 st4 st5">7</text>
+	<text transform="matrix(1 0 0 1 85.1479 94.295)" class="st2 st3 st4">4%</text>
+</g>
+<rect x="-64.4" y="166" class="st6" width="348.2" height="36"/>
+<text transform="matrix(1 0 0 1 5.823 178.8516)" class="st7 st8 st9">CAMPAIGN COMPLETION</text>
+</svg>

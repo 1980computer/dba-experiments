@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 511.7" style="enable-background:new 0 0 300 511.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.45;fill:url(#SVGID_1_);enable-background:new    ;}
+	.st1{fill:none;stroke:#E5E5E5;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#E5E5E5;stroke-miterlimit:10;stroke-dasharray:2,2;}
+	.st3{fill:#9AA8B6;}
+	.st4{fill:#2196F3;}
+	.st5{fill:none;stroke:#D3D3D3;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#7AC943;stroke-miterlimit:10;}
+	.st7{fill:#BCBCBC;}
+	.st8{font-family:'AvenirNext-Medium';}
+	.st9{font-size:10px;}
+	.st10{fill:#7AC943;}
+	.st11{fill:#EAEAEA;}
+	.st12{font-size:18px;}
+	.st13{fill:#DDDDDD;}
+	.st14{font-size:12px;}
+	.st15{fill:#1B232E;}
+	.st16{fill:none;stroke:#E0E5E9;stroke-miterlimit:10;}
+	.st17{fill:none;stroke:#BCBCBC;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st18{opacity:0.5;fill:#F7F7F7;enable-background:new    ;}
+	.st19{fill:#F7F7F7;}
+	.st20{font-size:14px;}
+	.st21{opacity:0.33;}
+	.st22{fill:none;stroke:#A0A0A0;stroke-linecap:round;stroke-linejoin:round;}
+	.st23{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;}
+	.st24{opacity:0.8;}
+	.st25{fill:#1C232E;stroke:#1C232E;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st26{opacity:0.3;}
+</style>
+<title>flyupgraph_4</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="242.3" y1="481.7" x2="242.3" y2="304.7" gradientTransform="matrix(1 0 0 1 0 -254)">
+	<stop  offset="0" style="stop-color:#4B4B4B"/>
+	<stop  offset="0.27" style="stop-color:#4E4E4E"/>
+	<stop  offset="0.43" style="stop-color:#565656"/>
+	<stop  offset="0.57" style="stop-color:#656565"/>
+	<stop  offset="0.7" style="stop-color:#7A7A7A"/>
+	<stop  offset="0.81" style="stop-color:#959595"/>
+	<stop  offset="0.92" style="stop-color:#B5B5B5"/>
+	<stop  offset="1" style="stop-color:#D3D3D3"/>
+</linearGradient>
+<rect x="215.8" y="50.7" class="st0" width="53" height="177"/>
+<line class="st1" x1="52.8" y1="199.2" x2="53.8" y2="199.2"/>
+<line class="st2" x1="55.8" y1="199.2" x2="273.8" y2="199.2"/>
+<line class="st1" x1="274.8" y1="199.2" x2="275.8" y2="199.2"/>
+<line class="st1" x1="52.8" y1="170.2" x2="53.8" y2="170.2"/>
+<line class="st2" x1="55.8" y1="170.2" x2="273.8" y2="170.2"/>
+<line class="st1" x1="274.8" y1="170.2" x2="275.8" y2="170.2"/>
+<line class="st1" x1="52.8" y1="113.2" x2="53.8" y2="113.2"/>
+<line class="st2" x1="55.8" y1="113.2" x2="273.8" y2="113.2"/>
+<line class="st1" x1="274.8" y1="113.2" x2="275.8" y2="113.2"/>
+<line class="st1" x1="52.8" y1="84.2" x2="53.8" y2="84.2"/>
+<line class="st2" x1="55.8" y1="84.2" x2="273.8" y2="84.2"/>
+<line class="st1" x1="274.8" y1="84.2" x2="275.8" y2="84.2"/>
+<line class="st1" x1="59.3" y1="235.7" x2="59.3" y2="50.7"/>
+<rect x="63.8" y="160.7" class="st3" width="2" height="68"/>
+<rect x="90.8" y="126.7" class="st4" width="2" height="102"/>
+<rect x="70.8" y="130.7" class="st4" width="2" height="98"/>
+<rect x="77.9" y="226.8" class="st3" width="2" height="1.1"/>
+<rect x="97.8" y="99.7" class="st4" width="2" height="129"/>
+<rect x="83.8" y="152.7" class="st3" width="2" height="76"/>
+<rect x="104.8" y="163.7" class="st3" width="2" height="65"/>
+<rect x="116.8" y="160.7" class="st3" width="1" height="68"/>
+<rect x="142.8" y="126.7" class="st4" width="2" height="102"/>
+<rect x="122.8" y="130.7" class="st4" width="2" height="98"/>
+<rect x="130.2" y="226.8" class="st3" width="2" height="1.1"/>
+<rect x="149.8" y="99.7" class="st4" width="2" height="129"/>
+<rect x="136.8" y="152.7" class="st3" width="2" height="76"/>
+<rect x="156.8" y="163.7" class="st3" width="2" height="65"/>
+<rect x="168.8" y="160.7" class="st3" width="2" height="68"/>
+<rect x="195.8" y="126.7" class="st4" width="2" height="102"/>
+<rect x="175.8" y="130.7" class="st4" width="2" height="98"/>
+<rect x="182.5" y="226.8" class="st3" width="2" height="1.1"/>
+<rect x="201.8" y="99.7" class="st4" width="2" height="129"/>
+<rect x="188.8" y="152.7" class="st3" width="2" height="76"/>
+<rect x="208.8" y="163.7" class="st3" width="2" height="65"/>
+<rect x="220.8" y="160.7" class="st3" width="2" height="68"/>
+<rect x="247.8" y="126.7" class="st4" width="2" height="102"/>
+<rect x="227.8" y="130.7" class="st4" width="2" height="98"/>
+<rect x="234.9" y="226.8" class="st3" width="2" height="1.1"/>
+<rect x="254.8" y="99.7" class="st4" width="2" height="129"/>
+<rect x="240.8" y="152.7" class="st3" width="2" height="76"/>
+<rect x="261.8" y="163.7" class="st3" width="2" height="65"/>
+<line class="st1" x1="111.3" y1="235.7" x2="111.3" y2="50.7"/>
+<line class="st1" x1="163.3" y1="235.7" x2="163.3" y2="50.7"/>
+<line class="st5" x1="216.3" y1="235.7" x2="216.3" y2="50.7"/>
+<line class="st5" x1="268.3" y1="235.7" x2="268.3" y2="50.7"/>
+<line class="st6" x1="275.8" y1="142.1" x2="52.8" y2="142.1"/>
+<text transform="matrix(1 0 0 1 28 116.18)" class="st7 st8 st9">6</text>
+<text transform="matrix(1 0 0 1 33.55 116.18)" class="st7 st8 st9">0</text>
+<text transform="matrix(1 0 0 1 39.18 116.18)" class="st7 st8 st9">0</text>
+<text transform="matrix(1 0 0 1 28.04 87.51)" class="st7 st8 st9">8</text>
+<text transform="matrix(1 0 0 1 33.55 87.51)" class="st7 st8 st9">0</text>
+<text transform="matrix(1 0 0 1 39.18 87.51)" class="st7 st8 st9">0</text>
+<text transform="matrix(1 0 0 1 28.06 144.85)" class="st10 st8 st9">4</text>
+<text transform="matrix(1 0 0 1 33.55 144.85)" class="st10 st8 st9">0</text>
+<text transform="matrix(1 0 0 1 39.18 144.85)" class="st10 st8 st9">0</text>
+<text transform="matrix(1 0 0 1 28.24 173.53)" class="st7 st8 st9">2</text>
+<text transform="matrix(1 0 0 1 33.55 173.53)" class="st7 st8 st9">0</text>
+<text transform="matrix(1 0 0 1 39.18 173.53)" class="st7 st8 st9">0</text>
+<text transform="matrix(1 0 0 1 35.51 202.2)" class="st7 st8 st9">1</text>
+<text transform="matrix(1 0 0 1 39.18 202.2)" class="st7 st8 st9">0</text>
+<text transform="matrix(1 0 0 1 205.88 246.35)" class="st7 st8 st9">9/</text>
+<text transform="matrix(1 0 0 1 216.1 246.35)" class="st7 st8 st9">2</text>
+<text transform="matrix(1 0 0 1 221.46 246.35)" class="st7 st8 st9">5</text>
+<text transform="matrix(1 0 0 1 259.33 246.35)" class="st7 st8 st9">1</text>
+<text transform="matrix(1 0 0 1 263 246.35)" class="st7 st8 st9">0/2</text>
+<text transform="matrix(1 0 0 1 154.63 246.35)" class="st7 st8 st9">9/18</text>
+<text transform="matrix(1 0 0 1 103.31 246.35)" class="st7 st8 st9">9/</text>
+<text transform="matrix(1 0 0 1 113.19 246.35)" class="st7 st8 st9">1</text>
+<text transform="matrix(1 0 0 1 116.67 246.35)" class="st7 st8 st9">1</text>
+<text transform="matrix(1 0 0 1 51.84 246.35)" class="st7 st8 st9">9/4</text>
+<line class="st1" x1="275.8" y1="228.1" x2="52.8" y2="228.1"/>
+<text transform="matrix(1 0 0 1 89.8 15.26)" class="st11 st8 st12">D</text>
+<text transform="matrix(1 0 0 1 102.62 15.26)" class="st11 st8 st12">A</text>
+<text transform="matrix(1 0 0 1 114.44 15.26)" class="st11 st8 st12">I</text>
+<text transform="matrix(1 0 0 1 119.52 15.26)" class="st11 st8 st12">L</text>
+<text transform="matrix(1 0 0 1 127.74 15.26)" class="st11 st8 st12">Y </text>
+<text transform="matrix(1 0 0 1 142.94 15.26)" class="st11 st8 st12">I</text>
+<text transform="matrix(1 0 0 1 148.01 15.26)" class="st11 st8 st12">N</text>
+<text transform="matrix(1 0 0 1 161.4 15.26)" class="st11 st8 st12">V</text>
+<text transform="matrix(1 0 0 1 173.05 15.26)" class="st11 st8 st12">I</text>
+<text transform="matrix(1 0 0 1 178.16 15.26)" class="st11 st8 st12">T</text>
+<text transform="matrix(1 0 0 1 188.2 15.26)" class="st11 st8 st12">E</text>
+<text transform="matrix(1 0 0 1 199.08 15.26)" class="st11 st8 st12">S</text>
+<text transform="matrix(1 0 0 1 19 320.99)" class="st13 st8 st14">S</text>
+<text transform="matrix(1 0 0 1 26.07 320.99)" class="st13 st8 st14">un</text>
+<text transform="matrix(1 0 0 1 39.29 320.99)" class="st13 st8 st14">d</text>
+<text transform="matrix(1 0 0 1 45.91 320.99)" class="st13 st8 st14">a</text>
+<text transform="matrix(1 0 0 1 52.06 320.99)" class="st13 st8 st14">y</text>
+<text transform="matrix(1 0 0 1 57.1 320.99)" class="st13 st8 st14">, </text>
+<text transform="matrix(1 0 0 1 62.43 320.99)" class="st13 st8 st14">S</text>
+<text transform="matrix(1 0 0 1 69.63 320.99)" class="st13 st8 st14">ep</text>
+<text transform="matrix(1 0 0 1 82.48 320.99)" class="st13 st8 st14">t</text>
+<text transform="matrix(1 0 0 1 86.02 320.99)" class="st13 st8 st14">em</text>
+<text transform="matrix(1 0 0 1 102.21 320.99)" class="st13 st8 st14">b</text>
+<text transform="matrix(1 0 0 1 108.99 320.99)" class="st13 st8 st14">er </text>
+<text transform="matrix(1 0 0 1 122.26 320.99)" class="st13 st8 st14">1</text>
+<text transform="matrix(1 0 0 1 126.55 320.99)" class="st13 st8 st14">9</text>
+<text transform="matrix(1 0 0 1 19 350.99)" class="st13 st8 st14">M</text>
+<text transform="matrix(1 0 0 1 29.27 350.99)" class="st13 st8 st14">on</text>
+<text transform="matrix(1 0 0 1 42.4 350.99)" class="st13 st8 st14">d</text>
+<text transform="matrix(1 0 0 1 49.02 350.99)" class="st13 st8 st14">a</text>
+<text transform="matrix(1 0 0 1 55.17 350.99)" class="st13 st8 st14">y</text>
+<text transform="matrix(1 0 0 1 60.21 350.99)" class="st13 st8 st14">, </text>
+<text transform="matrix(1 0 0 1 65.53 350.99)" class="st13 st8 st14">S</text>
+<text transform="matrix(1 0 0 1 72.73 350.99)" class="st13 st8 st14">ep</text>
+<text transform="matrix(1 0 0 1 85.59 350.99)" class="st13 st8 st14">t</text>
+<text transform="matrix(1 0 0 1 89.13 350.99)" class="st13 st8 st14">em</text>
+<text transform="matrix(1 0 0 1 105.31 350.99)" class="st13 st8 st14">b</text>
+<text transform="matrix(1 0 0 1 112.09 350.99)" class="st13 st8 st14">er </text>
+<text transform="matrix(1 0 0 1 125.37 350.99)" class="st13 st8 st14">2</text>
+<text transform="matrix(1 0 0 1 131.63 350.99)" class="st13 st8 st14">0</text>
+<text transform="matrix(1 0 0 1 19 380.99)" class="st13 st8 st14">T</text>
+<text transform="matrix(1 0 0 1 24.28 380.99)" class="st13 st8 st14">u</text>
+<text transform="matrix(1 0 0 1 30.83 380.99)" class="st13 st8 st14">e</text>
+<text transform="matrix(1 0 0 1 37.09 380.99)" class="st13 st8 st14">s</text>
+<text transform="matrix(1 0 0 1 42.58 380.99)" class="st13 st8 st14">d</text>
+<text transform="matrix(1 0 0 1 49.2 380.99)" class="st13 st8 st14">a</text>
+<text transform="matrix(1 0 0 1 55.35 380.99)" class="st13 st8 st14">y</text>
+<text transform="matrix(1 0 0 1 60.39 380.99)" class="st13 st8 st14">, </text>
+<text transform="matrix(1 0 0 1 65.71 380.99)" class="st13 st8 st14">S</text>
+<text transform="matrix(1 0 0 1 72.91 380.99)" class="st13 st8 st14">ep</text>
+<text transform="matrix(1 0 0 1 85.77 380.99)" class="st13 st8 st14">t</text>
+<text transform="matrix(1 0 0 1 89.31 380.99)" class="st13 st8 st14">em</text>
+<text transform="matrix(1 0 0 1 105.49 380.99)" class="st13 st8 st14">b</text>
+<text transform="matrix(1 0 0 1 112.27 380.99)" class="st13 st8 st14">er </text>
+<text transform="matrix(1 0 0 1 125.55 380.99)" class="st13 st8 st14">2</text>
+<text transform="matrix(1 0 0 1 131.88 380.99)" class="st13 st8 st14">1</text>
+<text transform="matrix(1 0 0 1 19 410.99)" class="st13 st8 st14">W</text>
+<text transform="matrix(1 0 0 1 29.64 410.99)" class="st13 st8 st14">e</text>
+<text transform="matrix(1 0 0 1 35.86 410.99)" class="st13 st8 st14">dn</text>
+<text transform="matrix(1 0 0 1 49.24 410.99)" class="st13 st8 st14">e</text>
+<text transform="matrix(1 0 0 1 55.5 410.99)" class="st13 st8 st14">s</text>
+<text transform="matrix(1 0 0 1 60.99 410.99)" class="st13 st8 st14">d</text>
+<text transform="matrix(1 0 0 1 67.61 410.99)" class="st13 st8 st14">a</text>
+<text transform="matrix(1 0 0 1 73.75 410.99)" class="st13 st8 st14">y</text>
+<text transform="matrix(1 0 0 1 78.79 410.99)" class="st13 st8 st14">, </text>
+<text transform="matrix(1 0 0 1 84.12 410.99)" class="st13 st8 st14">S</text>
+<text transform="matrix(1 0 0 1 91.32 410.99)" class="st13 st8 st14">ep</text>
+<text transform="matrix(1 0 0 1 104.17 410.99)" class="st13 st8 st14">t</text>
+<text transform="matrix(1 0 0 1 107.71 410.99)" class="st13 st8 st14">em</text>
+<text transform="matrix(1 0 0 1 123.9 410.99)" class="st13 st8 st14">b</text>
+<text transform="matrix(1 0 0 1 130.68 410.99)" class="st13 st8 st14">er </text>
+<text transform="matrix(1 0 0 1 143.95 410.99)" class="st13 st8 st14">2</text>
+<text transform="matrix(1 0 0 1 150.41 410.99)" class="st13 st8 st14">2</text>
+<text transform="matrix(1 0 0 1 19 440.99)" class="st13 st8 st14">T</text>
+<text transform="matrix(1 0 0 1 25.48 440.99)" class="st13 st8 st14">h</text>
+<text transform="matrix(1 0 0 1 32.08 440.99)" class="st13 st8 st14">u</text>
+<text transform="matrix(1 0 0 1 38.63 440.99)" class="st13 st8 st14">r</text>
+<text transform="matrix(1 0 0 1 42.71 440.99)" class="st13 st8 st14">s</text>
+<text transform="matrix(1 0 0 1 48.19 440.99)" class="st13 st8 st14">d</text>
+<text transform="matrix(1 0 0 1 54.82 440.99)" class="st13 st8 st14">a</text>
+<text transform="matrix(1 0 0 1 60.96 440.99)" class="st13 st8 st14">y</text>
+<text transform="matrix(1 0 0 1 66 440.99)" class="st13 st8 st14">, </text>
+<text transform="matrix(1 0 0 1 71.33 440.99)" class="st13 st8 st14">S</text>
+<text transform="matrix(1 0 0 1 78.53 440.99)" class="st13 st8 st14">ep</text>
+<text transform="matrix(1 0 0 1 91.38 440.99)" class="st13 st8 st14">t</text>
+<text transform="matrix(1 0 0 1 94.92 440.99)" class="st13 st8 st14">em</text>
+<text transform="matrix(1 0 0 1 111.11 440.99)" class="st13 st8 st14">b</text>
+<text transform="matrix(1 0 0 1 117.89 440.99)" class="st13 st8 st14">er </text>
+<text transform="matrix(1 0 0 1 131.16 440.99)" class="st13 st8 st14">2</text>
+<text transform="matrix(1 0 0 1 137.22 440.99)" class="st13 st8 st14">3</text>
+<text transform="matrix(1 0 0 1 19 470.99)" class="st13 st8 st14">F</text>
+<text transform="matrix(1 0 0 1 25.51 470.99)" class="st13 st8 st14">r</text>
+<text transform="matrix(1 0 0 1 29.47 470.99)" class="st13 st8 st14">i</text>
+<text transform="matrix(1 0 0 1 32.17 470.99)" class="st13 st8 st14">d</text>
+<text transform="matrix(1 0 0 1 38.8 470.99)" class="st13 st8 st14">a</text>
+<text transform="matrix(1 0 0 1 44.94 470.99)" class="st13 st8 st14">y</text>
+<text transform="matrix(1 0 0 1 49.98 470.99)" class="st13 st8 st14">, </text>
+<text transform="matrix(1 0 0 1 55.31 470.99)" class="st13 st8 st14">S</text>
+<text transform="matrix(1 0 0 1 62.51 470.99)" class="st13 st8 st14">ep</text>
+<text transform="matrix(1 0 0 1 75.36 470.99)" class="st13 st8 st14">t</text>
+<text transform="matrix(1 0 0 1 78.9 470.99)" class="st13 st8 st14">em</text>
+<text transform="matrix(1 0 0 1 95.09 470.99)" class="st13 st8 st14">b</text>
+<text transform="matrix(1 0 0 1 101.87 470.99)" class="st13 st8 st14">er </text>
+<text transform="matrix(1 0 0 1 115.14 470.99)" class="st13 st8 st14">2</text>
+<text transform="matrix(1 0 0 1 121.18 470.99)" class="st13 st8 st14">4</text>
+<text transform="matrix(1 0 0 1 19 500.99)" class="st13 st8 st14">S</text>
+<text transform="matrix(1 0 0 1 26.15 500.99)" class="st13 st8 st14">a</text>
+<text transform="matrix(1 0 0 1 32.28 500.99)" class="st13 st8 st14">t</text>
+<text transform="matrix(1 0 0 1 35.74 500.99)" class="st13 st8 st14">u</text>
+<text transform="matrix(1 0 0 1 42.29 500.99)" class="st13 st8 st14">r</text>
+<text transform="matrix(1 0 0 1 46.24 500.99)" class="st13 st8 st14">d</text>
+<text transform="matrix(1 0 0 1 52.86 500.99)" class="st13 st8 st14">a</text>
+<text transform="matrix(1 0 0 1 59.01 500.99)" class="st13 st8 st14">y</text>
+<text transform="matrix(1 0 0 1 64.05 500.99)" class="st13 st8 st14">, </text>
+<text transform="matrix(1 0 0 1 69.37 500.99)" class="st13 st8 st14">S</text>
+<text transform="matrix(1 0 0 1 76.57 500.99)" class="st13 st8 st14">ep</text>
+<text transform="matrix(1 0 0 1 89.43 500.99)" class="st13 st8 st14">t</text>
+<text transform="matrix(1 0 0 1 92.97 500.99)" class="st13 st8 st14">em</text>
+<text transform="matrix(1 0 0 1 109.15 500.99)" class="st13 st8 st14">b</text>
+<text transform="matrix(1 0 0 1 115.93 500.99)" class="st13 st8 st14">er </text>
+<text transform="matrix(1 0 0 1 129.21 500.99)" class="st13 st8 st14">2</text>
+<text transform="matrix(1 0 0 1 135.3 500.99)" class="st13 st8 st14">5</text>
+<text transform="matrix(1 0 0 1 237.67 320.99)" class="st4 st8 st14">8</text>
+<text transform="matrix(1 0 0 1 244.17 320.99)" class="st4 st8 st14">8</text>
+<text transform="matrix(1 0 0 1 250.64 320.99)" class="st15 st8 st14"> </text>
+<text transform="matrix(1 0 0 1 253.73 320.99)" class="st13 st8 st9">I</text>
+<text transform="matrix(1 0 0 1 256.26 320.99)" class="st13 st8 st9">n</text>
+<text transform="matrix(1 0 0 1 261.72 320.99)" class="st13 st8 st9">v</text>
+<text transform="matrix(1 0 0 1 266.45 320.99)" class="st13 st8 st9">i</text>
+<text transform="matrix(1 0 0 1 268.76 320.99)" class="st13 st8 st9">t</text>
+<text transform="matrix(1 0 0 1 271.71 320.99)" class="st13 st8 st9">e</text>
+<text transform="matrix(1 0 0 1 276.93 320.99)" class="st13 st8 st9">s</text>
+<text transform="matrix(1 0 0 1 234.4 350.99)" class="st13 st8 st14">1</text>
+<text transform="matrix(1 0 0 1 238.83 350.99)" class="st13 st8 st14">7</text>
+<text transform="matrix(1 0 0 1 245.01 350.99)" class="st13 st8 st14">7 </text>
+<text transform="matrix(1 0 0 1 253.73 350.99)" class="st13 st8 st9">I</text>
+<text transform="matrix(1 0 0 1 256.26 350.99)" class="st13 st8 st9">n</text>
+<text transform="matrix(1 0 0 1 261.72 350.99)" class="st13 st8 st9">v</text>
+<text transform="matrix(1 0 0 1 266.45 350.99)" class="st13 st8 st9">i</text>
+<text transform="matrix(1 0 0 1 268.76 350.99)" class="st13 st8 st9">t</text>
+<text transform="matrix(1 0 0 1 271.71 350.99)" class="st13 st8 st9">e</text>
+<text transform="matrix(1 0 0 1 276.93 350.99)" class="st13 st8 st9">s</text>
+<text transform="matrix(1 0 0 1 231.27 380.99)" class="st13 st8 st14">3</text>
+<text transform="matrix(1 0 0 1 237.71 380.99)" class="st13 st8 st14">90 </text>
+<text transform="matrix(1 0 0 1 253.73 380.99)" class="st13 st8 st9">I</text>
+<text transform="matrix(1 0 0 1 256.26 380.99)" class="st13 st8 st9">n</text>
+<text transform="matrix(1 0 0 1 261.72 380.99)" class="st13 st8 st9">v</text>
+<text transform="matrix(1 0 0 1 266.45 380.99)" class="st13 st8 st9">i</text>
+<text transform="matrix(1 0 0 1 268.76 380.99)" class="st13 st8 st9">t</text>
+<text transform="matrix(1 0 0 1 271.71 380.99)" class="st13 st8 st9">e</text>
+<text transform="matrix(1 0 0 1 276.93 380.99)" class="st13 st8 st9">s</text>
+<text transform="matrix(1 0 0 1 233.54 410.99)" class="st4 st8 st14">4</text>
+<text transform="matrix(1 0 0 1 239.78 410.99)" class="st4 st8 st14">1</text>
+<text transform="matrix(1 0 0 1 244.07 410.99)" class="st4 st8 st14">0</text>
+<text transform="matrix(1 0 0 1 250.64 410.99)" class="st15 st8 st14"> </text>
+<text transform="matrix(1 0 0 1 253.73 410.99)" class="st13 st8 st9">I</text>
+<text transform="matrix(1 0 0 1 256.26 410.99)" class="st13 st8 st9">n</text>
+<text transform="matrix(1 0 0 1 261.72 410.99)" class="st13 st8 st9">v</text>
+<text transform="matrix(1 0 0 1 266.45 410.99)" class="st13 st8 st9">i</text>
+<text transform="matrix(1 0 0 1 268.76 410.99)" class="st13 st8 st9">t</text>
+<text transform="matrix(1 0 0 1 271.71 410.99)" class="st13 st8 st9">e</text>
+<text transform="matrix(1 0 0 1 276.93 410.99)" class="st13 st8 st9">s</text>
+<text transform="matrix(1 0 0 1 231.27 440.99)" class="st4 st8 st14">590</text>
+<text transform="matrix(1 0 0 1 250.64 440.99)" class="st15 st8 st14"> </text>
+<text transform="matrix(1 0 0 1 253.73 440.99)" class="st13 st8 st9">I</text>
+<text transform="matrix(1 0 0 1 256.26 440.99)" class="st13 st8 st9">n</text>
+<text transform="matrix(1 0 0 1 261.72 440.99)" class="st13 st8 st9">v</text>
+<text transform="matrix(1 0 0 1 266.45 440.99)" class="st13 st8 st9">i</text>
+<text transform="matrix(1 0 0 1 268.76 440.99)" class="st13 st8 st9">t</text>
+<text transform="matrix(1 0 0 1 271.71 440.99)" class="st13 st8 st9">e</text>
+<text transform="matrix(1 0 0 1 276.93 440.99)" class="st13 st8 st9">s</text>
+<text transform="matrix(1 0 0 1 231.6 470.99)" class="st13 st8 st14">6</text>
+<text transform="matrix(1 0 0 1 238.06 470.99)" class="st13 st8 st14">3</text>
+<text transform="matrix(1 0 0 1 244.58 470.99)" class="st13 st8 st14">0</text>
+<text transform="matrix(1 0 0 1 251.16 470.99)" class="st13 st8 st9"> </text>
+<text transform="matrix(1 0 0 1 253.73 470.99)" class="st13 st8 st9">I</text>
+<text transform="matrix(1 0 0 1 256.26 470.99)" class="st13 st8 st9">n</text>
+<text transform="matrix(1 0 0 1 261.72 470.99)" class="st13 st8 st9">v</text>
+<text transform="matrix(1 0 0 1 266.45 470.99)" class="st13 st8 st9">i</text>
+<text transform="matrix(1 0 0 1 268.76 470.99)" class="st13 st8 st9">t</text>
+<text transform="matrix(1 0 0 1 271.71 470.99)" class="st13 st8 st9">e</text>
+<text transform="matrix(1 0 0 1 276.93 470.99)" class="st13 st8 st9">s</text>
+<text transform="matrix(1 0 0 1 232.39 500.99)" class="st13 st8 st14">6</text>
+<text transform="matrix(1 0 0 1 239.07 500.99)" class="st13 st8 st14">4</text>
+<text transform="matrix(1 0 0 1 245.53 500.99)" class="st13 st8 st14">7</text>
+<text transform="matrix(1 0 0 1 251.16 500.99)" class="st13 st8 st9"> </text>
+<text transform="matrix(1 0 0 1 253.73 500.99)" class="st13 st8 st9">I</text>
+<text transform="matrix(1 0 0 1 256.26 500.99)" class="st13 st8 st9">n</text>
+<text transform="matrix(1 0 0 1 261.72 500.99)" class="st13 st8 st9">v</text>
+<text transform="matrix(1 0 0 1 266.45 500.99)" class="st13 st8 st9">i</text>
+<text transform="matrix(1 0 0 1 268.76 500.99)" class="st13 st8 st9">t</text>
+<text transform="matrix(1 0 0 1 271.71 500.99)" class="st13 st8 st9">e</text>
+<text transform="matrix(1 0 0 1 276.93 500.99)" class="st13 st8 st9">s</text>
+<line class="st16" x1="13.8" y1="301.2" x2="285.8" y2="301.2"/>
+<line class="st17" x1="13.8" y1="331.2" x2="285.8" y2="331.2"/>
+<line class="st17" x1="13.8" y1="361.2" x2="285.8" y2="361.2"/>
+<line class="st17" x1="13.8" y1="391.2" x2="285.8" y2="391.2"/>
+<line class="st17" x1="13.8" y1="421.2" x2="285.8" y2="421.2"/>
+<line class="st17" x1="13.8" y1="451.2" x2="285.8" y2="451.2"/>
+<line class="st17" x1="13.8" y1="481.2" x2="285.8" y2="481.2"/>
+<line class="st17" x1="13.8" y1="511.2" x2="285.8" y2="511.2"/>
+<rect id="Background" x="13.8" y="300.7" class="st18" width="272" height="1"/>
+<text transform="matrix(1 0 0 1 82.7 278.46)" class="st19 st8 st20">W</text>
+<text transform="matrix(1 0 0 1 95.19 278.46)" class="st19 st8 st20">e</text>
+<text transform="matrix(1 0 0 1 102.59 278.46)" class="st19 st8 st20">e</text>
+<text transform="matrix(1 0 0 1 109.96 278.46)" class="st19 st8 st20">k </text>
+<text transform="matrix(1 0 0 1 120.57 278.46)" class="st19 st8 st20">o</text>
+<text transform="matrix(1 0 0 1 128.35 278.46)" class="st19 st8 st20">f </text>
+<text transform="matrix(1 0 0 1 135.86 278.46)" class="st19 st8 st20">S</text>
+<text transform="matrix(1 0 0 1 144.4 278.46)" class="st19 st8 st20">ep</text>
+<text transform="matrix(1 0 0 1 159.7 278.46)" class="st19 st8 st20">t</text>
+<text transform="matrix(1 0 0 1 164.37 278.46)" class="st19 st8 st20">. </text>
+<text transform="matrix(1 0 0 1 170.76 278.46)" class="st19 st8 st20">1</text>
+<text transform="matrix(1 0 0 1 175.91 278.46)" class="st19 st8 st20">9</text>
+<text transform="matrix(1 0 0 1 183.19 278.46)" class="st19 st8 st20">, </text>
+<text transform="matrix(1 0 0 1 189.67 278.46)" class="st19 st8 st20">2</text>
+<text transform="matrix(1 0 0 1 197.11 278.46)" class="st19 st8 st20">0</text>
+<text transform="matrix(1 0 0 1 204.93 278.46)" class="st19 st8 st20">1</text>
+<text transform="matrix(1 0 0 1 210.11 278.46)" class="st19 st8 st20">6</text>
+<g class="st21">
+	<circle class="st22" cx="276.5" cy="274.6" r="10"/>
+	<polyline class="st22" points="277.3,279.1 281.5,275 277.3,270.8 	"/>
+	<line class="st22" x1="270.8" y1="275.2" x2="280.8" y2="275.2"/>
+</g>
+<circle class="st23" cx="24" cy="274.6" r="10"/>
+<polyline class="st23" points="23.2,279.1 19,275 23.2,270.8 "/>
+<line class="st23" x1="28.8" y1="275.2" x2="18.8" y2="275.2"/>
+<rect id="Background-2" x="13.8" y="40.7" class="st18" width="272" height="1"/>
+<g class="st24">
+	<path class="st25" d="M206.9,55.6l3.2,2.5c0.2,0.2,0.5,0.1,0.7-0.1c0.1-0.1,0.1-0.2,0.1-0.3v-5c0-0.3-0.2-0.5-0.5-0.5
+		c-0.1,0-0.2,0-0.3,0.1l-3.2,2.5C206.7,55,206.7,55.3,206.9,55.6C206.9,55.5,206.9,55.6,206.9,55.6z"/>
+</g>
+<g class="st26">
+	<path class="st25" d="M278.5,54.8l-3.2-2.5c-0.2-0.2-0.5-0.1-0.7,0.1c-0.1,0.1-0.1,0.2-0.1,0.3v5c0,0.3,0.2,0.5,0.5,0.5
+		c0.1,0,0.2,0,0.3-0.1l3.2-2.5C278.7,55.3,278.7,55,278.5,54.8L278.5,54.8z"/>
+</g>
+</svg>
