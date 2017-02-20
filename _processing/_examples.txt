@@ -1,0 +1,3 @@
+http://gifloopcoder.tumblr.com/post/135444465438/roytanck-waves-using-gifloopcoders-path
+https://github.com/roytanck/gifloopcoder-scripts/blob/master/code/roy-waves.js
+

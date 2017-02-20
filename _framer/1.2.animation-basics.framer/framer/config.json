@@ -1,17 +1,17 @@
 {
+  "updateDelay" : 0.3,
   "contentZoom" : "100%",
+  "delay" : 0.300000011920929,
+  "deviceZoom" : "50%",
   "sharedPrototype" : 0,
   "propertyPanelToggleStates" : {
 
   },
-  "deviceOrientation" : 0,
   "deviceType" : "custom",
-  "deviceZoom" : "50%",
-  "updateDelay" : 0.3,
-  "delay" : 0.300000011920929,
+  "projectId" : "59F6D853-9D2C-443B-A86D-C400F76E592F",
+  "deviceOrientation" : 0,
   "device" : "Fullscreen",
   "foldedCodeRanges" : [
-
-  ],
-  "projectId" : "59F6D853-9D2C-443B-A86D-C400F76E592F"
+    "{0, 254}"
+  ]
 }
