@@ -1,0 +1,17 @@
+{
+  "updateDelay" : 0.3,
+  "contentZoom" : "100%",
+  "delay" : 0.300000011920929,
+  "deviceZoom" : "50%",
+  "sharedPrototype" : 0,
+  "propertyPanelToggleStates" : {
+
+  },
+  "deviceType" : "custom",
+  "projectId" : "25740B2C-0EA0-47CB-A7D9-4538B31AFC01",
+  "deviceOrientation" : 0,
+  "device" : "Fullscreen",
+  "foldedCodeRanges" : [
+    "{0, 254}"
+  ]
+}
