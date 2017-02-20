@@ -12,7 +12,6 @@
   "deviceOrientation" : 0,
   "device" : "Fullscreen",
   "foldedCodeRanges" : [
-    "{0, 254}",
-    "{255, 260}"
+    "{0, 254}"
   ]
 }

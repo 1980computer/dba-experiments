@@ -7,7 +7,7 @@ if (window.Framer) {window.Framer.Defaults.DeviceView = {"deviceScale":"","selec
 }
 if (window.Framer) {window.Framer.Defaults.DeviceComponent = {"deviceScale":"","selectedHand":"","deviceType":"custom","contentScale":"","orientation":0};
 }
-window.FramerStudioInfo = {"deviceImagesUrl":"\/_server\/resources\/DeviceImages","documentTitle":"1.3.animation-basics.framer"};
+window.FramerStudioInfo = {"deviceImagesUrl":"\/_server\/resources\/DeviceImages","documentTitle":"1.2.anim-basics.framer"};
 
 Framer.Device = new Framer.DeviceView();
 Framer.Device.setupContext();

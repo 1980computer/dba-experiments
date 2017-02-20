@@ -2,7 +2,6 @@ app.coffee
 app.js
 config.json
 framer/background.png
-framer/backups/backup-2017-02-17 18.23.41.coffee
 framer/backups/backup-2017-02-17 18.24.41.coffee
 framer/backups/backup-2017-02-17 18.25.41.coffee
 framer/backups/backup-2017-02-17 18.26.41.coffee
@@ -23,6 +22,7 @@ framer/backups/backup-2017-02-18 13.58.25.coffee
 framer/backups/backup-2017-02-18 13.59.25.coffee
 framer/backups/backup-2017-02-18 14.00.25.coffee
 framer/backups/backup-2017-02-18 14.01.25.coffee
+framer/backups/backup-2017-02-19 19.35.09.coffee
 framer/coffee-script.js
 framer/config.json
 framer/framer.generated.js
