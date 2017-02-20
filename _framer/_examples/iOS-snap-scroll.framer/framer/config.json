@@ -1,0 +1,18 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "contentScale" : 1,
+  "fullScreen" : false,
+  "sharedPrototype" : 1,
+  "propertyPanelToggleStates" : {
+
+  },
+  "deviceType" : "apple-iphone-6s-space-gray",
+  "projectId" : "06F28047-C61F-4566-9C81-FDEDBAFEF9C7",
+  "deviceOrientation" : 0,
+  "selectedHand" : "iphone-hands-2",
+  "foldedCodeRanges" : [
+
+  ],
+  "deviceScale" : "fit"
+}
