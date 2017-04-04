@@ -2,9 +2,16 @@
 
 <hr>
 
-<h3>DBA Experiments</h3>
-<p>Repository containing experiments and code references.</p>
+<h3>Experiments</h3>
+
+<p>Repository containing experiments and code references. This repos a mixture of examples and references found online that enable me to understand code structures, and build out concepts. </p>
+
+<p>Associated program assets:<br>
+• Framer<br>
+• Principal<br>
+• Processing<br>
+• Random</p>
 
 <hr>
 
-<p>Twitter - <a href="https://twitter.com/davidbanthony" class="twitter-follow-button" data-show-count="false">Follow @davidbanthony</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Twitter <a href="https://twitter.com/davidbanthony" target="_blank">Follow @davidbanthony</a> or Instagram <a href="https://instagram.com/davidbanthony" target="_blank">Follow @davidbanthony</a></p>
